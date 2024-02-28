@@ -1,3 +1,5 @@
+#Write a Python program to calculate the total number of vowels and the count of each individual vowel a,e,i,o,u in the string "Guvi Geeks Network Private Limited"
+
 input="Guvi Geeks Network Private Limited" #Given string input
 
 val1=val2=val3=val4=val5=0 #Each counter variable for the vowels is initialized at zero
