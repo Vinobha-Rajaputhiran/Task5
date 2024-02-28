@@ -1,5 +1,7 @@
-input= str(input("Enter your string: "))
-input1=list(input.replace(" ",""))
+#Write a program that takes a string and returns the most frequent character in it.
+
+input= str(input("Enter your string: ")) #Get input string from user
+input1=list(input.replace(" ","")) #Utilized replace function to remove any spaces in the user input
 
 print("The most common character in the string is: ", end="")
 
